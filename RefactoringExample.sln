@@ -7,6 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegacyAppConsumer", "Legacy
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegacyApp", "LegacyApp\LegacyApp.csproj", "{72364726-3116-4019-A054-6E9AF98BB046}"
 EndProject
+<<<<<<< HEAD
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegacyAppTests", "LegacyAppTests\LegacyAppTests.csproj", "{19BBA99A-B267-43A7-8D0B-D34B532D030A}"
+EndProject
+=======
+>>>>>>> 40333e2522caa7aa5ec8781ed59a852ebbc519d2
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +26,13 @@ Global
 		{72364726-3116-4019-A054-6E9AF98BB046}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72364726-3116-4019-A054-6E9AF98BB046}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72364726-3116-4019-A054-6E9AF98BB046}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<< HEAD
+		{19BBA99A-B267-43A7-8D0B-D34B532D030A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19BBA99A-B267-43A7-8D0B-D34B532D030A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19BBA99A-B267-43A7-8D0B-D34B532D030A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19BBA99A-B267-43A7-8D0B-D34B532D030A}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+>>>>>>> 40333e2522caa7aa5ec8781ed59a852ebbc519d2
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
